@@ -1,0 +1,4 @@
+aws_region             = "us-east-1"
+aws_account_id        = "123456789012"
+okta_idp_metadata_url = "https://example.okta.com/app/exk123/sso/saml/metadata"
+role_names            = ["OktaAdmin", "OktaReadOnly"]
